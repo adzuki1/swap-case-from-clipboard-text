@@ -13,15 +13,17 @@ Paste the swapped text at the current cursor position.
 Easy-to-use and customizable.
 
 
+How to use
+
 1. Ensure you have Python and pip installed on your system.
 
 2. Install the required Python libraries by running the following command:
 
-    pip install pyperclip keyboard pyautogui
+        pip install pyperclip keyboard pyautogui
 
 3. Run the script:
 
-    python swapcase_clipboard.py
+        python swapcase_clipboard.py
 
 4. Once the script is running, use the hotkey combination "Ctrl + Caps Lock" to trigger the case swap:
 
@@ -35,16 +37,16 @@ Easy-to-use and customizable.
 Customization
 
 You can customize the following aspects of the script:
-
+    
     Hotkey: You can change the hotkey combination by modifying the code in the keyboard.on_press_key line. Make sure to check the keyboard library documentation for valid key combinations.
     Exit Hotkey: If you wish to change the hotkey for exiting the script, you can modify the keyboard.wait line. By default, it's set to "Ctrl + Esc."
 
 
 Dependencies
 
-    pyperclip: A cross-platform clipboard module for Python.
-    keyboard: A Python library to detect and simulate key presses and releases.
-    pyautogui: A Python library for programmatically controlling the mouse and keyboard.
+    pyperclip
+    keyboard
+    pyautogui
 
 
 

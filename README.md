@@ -38,8 +38,8 @@ Customization
 
 You can customize the following aspects of the script:
     
-    Hotkey: You can change the hotkey combination by modifying the code in the keyboard.on_press_key line. Make sure to check the keyboard library documentation for valid key combinations.
-    Exit Hotkey: If you wish to change the hotkey for exiting the script, you can modify the keyboard.wait line. By default, it's set to "Ctrl + Esc."
+Hotkey: You can change the hotkey combination by modifying the code in the keyboard.on_press_key line. Make sure to check the keyboard library documentation for valid key combinations.
+Exit Hotkey: If you wish to change the hotkey for exiting the script, you can modify the keyboard.wait line. By default, it's set to "Ctrl + Esc."
 
 
 Dependencies

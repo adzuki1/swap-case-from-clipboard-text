@@ -44,9 +44,9 @@ You can customize the following aspects of the script:
 
 Dependencies
 
-    pyperclip
-    keyboard
-    pyautogui
+        pyperclip
+        keyboard
+        pyautogui
 
 
 

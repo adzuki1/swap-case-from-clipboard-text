@@ -7,10 +7,10 @@ The SwapCase Clipboard Utility is a Python script that allows you to swap the ca
 
 Features
 
-Swap the case of text in the clipboard.
-Supports the hotkey combination of "Ctrl + Caps Lock" to trigger the case swap.
-Paste the swapped text at the current cursor position.
-Easy-to-use and customizable.
+- Swap the case of text in the clipboard.
+- Supports the hotkey combination of "Ctrl + Caps Lock" to trigger the case swap.
+- Paste the swapped text at the current cursor position.
+- Easy-to-use and customizable.
 
 
 How to use
@@ -27,9 +27,9 @@ How to use
 
 4. Once the script is running, use the hotkey combination "Ctrl + Caps Lock" to trigger the case swap:
 
-    Copy text to your clipboard.
-    Press "Ctrl + Caps Lock" to swap the case of the copied text.
-    The swapped text will be placed in your clipboard, ready to paste.
+    - Copy text to your clipboard.
+    - Press "Ctrl + Caps Lock" to swap the case of the copied text.
+    - The swapped text will be placed in your clipboard, ready to paste.
 
     To exit the script, you can press the hotkey combination you specified in the code.
 
@@ -38,8 +38,8 @@ Customization
 
 You can customize the following aspects of the script:
     
-Hotkey: You can change the hotkey combination by modifying the code in the keyboard.on_press_key line. Make sure to check the keyboard library documentation for valid key combinations.
-Exit Hotkey: If you wish to change the hotkey for exiting the script, you can modify the keyboard.wait line. By default, it's set to "Ctrl + Esc."
+- Hotkey: You can change the hotkey combination by modifying the code in the keyboard.on_press_key line. Make sure to check the keyboard library documentation for valid key combinations.
+- Exit Hotkey: If you wish to change the hotkey for exiting the script, you can modify the keyboard.wait line. By default, it's set to "Ctrl + Esc."
 
 
 Dependencies

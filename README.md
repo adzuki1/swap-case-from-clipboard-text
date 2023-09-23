@@ -7,10 +7,10 @@ The SwapCase Clipboard Utility is a Python script that allows you to swap the ca
 
 Features
 
-    Swap the case of text in the clipboard.
-    Supports the hotkey combination of "Ctrl + Caps Lock" to trigger the case swap.
-    Paste the swapped text at the current cursor position.
-    Easy-to-use and customizable.
+Swap the case of text in the clipboard.
+Supports the hotkey combination of "Ctrl + Caps Lock" to trigger the case swap.
+Paste the swapped text at the current cursor position.
+Easy-to-use and customizable.
 
 
 1. Ensure you have Python and pip installed on your system.

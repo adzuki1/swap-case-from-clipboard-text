@@ -1,11 +1,11 @@
 ## SwapCase Clipboard Utility
 
-Overview
+# Overview
 
 The SwapCase Clipboard Utility is a Python script that allows you to swap the case (convert uppercase to lowercase and vice versa) of text in your clipboard. It provides a convenient way to perform this operation with a simple hotkey combination.
 
 
-Features
+# Features
 
 - Swap the case of text in the clipboard.
 - Supports the hotkey combination of "Ctrl + Caps Lock" to trigger the case swap.
@@ -13,9 +13,9 @@ Features
 - Easy-to-use and customizable.
 
 
-How to use
+# How to use
 
-1. Ensure you have Python and pip installed on your system.
+1. Ensure you have Python3 and pip installed on your system.
 
 2. Install the required Python libraries by running the following command:
 
@@ -34,7 +34,7 @@ How to use
     To exit the script, you can press the hotkey combination you specified in the code.
 
 
-Customization
+# Customization
 
 You can customize the following aspects of the script:
     
@@ -42,7 +42,7 @@ You can customize the following aspects of the script:
 - Exit Hotkey: If you wish to change the hotkey for exiting the script, you can modify the keyboard.wait line. By default, it's set to "Ctrl + Esc."
 
 
-Dependencies
+# Dependencies
 
         pyperclip
         keyboard
